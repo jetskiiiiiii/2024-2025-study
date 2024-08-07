@@ -3,4 +3,5 @@ Completed:
 - Calculus for Machine Learning and Data Science
 
 In progress:
-- Grokking Algorithms
+- Python Workout (p. 102)
+- Grokking Algorithms (p. 26)
