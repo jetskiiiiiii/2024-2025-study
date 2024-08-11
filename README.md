@@ -10,3 +10,7 @@ Daily task tracker:
 August 8, 2024:
   - 'Python Workout', Exercise 18, 18.1
   - 'Grokking Algorithms' Big O notation
+
+Auguest 11, 2024:
+  - 'Python Workout' Exercise 18.2
+  - 'Grokking Algorithms' Selection sort, page 54
