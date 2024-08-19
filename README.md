@@ -6,7 +6,12 @@ In progress:
 - Python Workout (p. 102)
 - Grokking Algorithms (p. 26)
 
-Daily task tracker:
+Task tracker:
+August 18, 2024:
+  - 'Grokking Algorithms', page 78
+    - Completed recursion exercises
+    - Review binary search
+
 August 12, 2024:
   - 'Python Workout' Exercise 18.3
 
